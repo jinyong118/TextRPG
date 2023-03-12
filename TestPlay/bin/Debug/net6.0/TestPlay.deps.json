@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestPlay/1.0.0": {
+        "dependencies": {
+          "TextRPG": "1.0.0"
+        },
+        "runtime": {
+          "TestPlay.dll": {}
+        }
+      },
+      "TextRPG/1.0.0": {
+        "runtime": {
+          "TextRPG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestPlay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextRPG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

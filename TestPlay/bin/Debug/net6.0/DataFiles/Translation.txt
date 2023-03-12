@@ -1,0 +1,17 @@
+Move=이동
+Explore=탐색
+Maintenance=정비
+Description=상세
+PositionChanger=이동
+Nothing=없음
+Reach=결정
+GetDrinks=물약
+Bag=가방
+GetScrolls=두루마리
+GetIngredients=재료
+GetArmors=방어구
+GetMainWeapons=주무기
+GetSubWeapons=보조무기
+GetAccessories=장신구
+GetQuestOnly=귀중품
+Talk=대화

@@ -1,0 +1,21 @@
+ID=-1	Name=Null	LinkedObjects=	Components=Nothing
+ID=102	Name=입구	LinkedObjects=101	Components=Locatable/Reach/Description	Locatable.Label=입구	Locatable.Information=마을로 들어가는 입구.	Description.Target=Locatable.Description
+ID=101	Name=북쪽 검문소	LinkedObjects=111/102/201	Components=Locatable/Reach/Description	Locatable.Label=북쪽 검문소	Locatable.Information=북쪽에 위치한 검문소.	Description.Target=Locatable.Description
+ID=111	Name=개울가	LinkedObjects=121/112/113/101	Components=Locatable/Reach/Description	Locatable.Label=개울가	Locatable.Information=개울이 흐르는 길.	Description.Target=Locatable.Description
+ID=112	Name=대장간	LinkedObjects=111	Components=Locatable/Reach/Description	Locatable.Label=대장간	Locatable.Information=철을 다루는 곳. 뜨거운 열기가 피어오른다.	Description.Target=Locatable.Description
+ID=113	Name=방앗간	LinkedObjects=111	Components=Locatable/Reach/Description	Locatable.Label=방앗간	Locatable.Information=곡식을 빻는 곳. 땅이 울리는 듯 하다.	Description.Target=Locatable.Description
+ID=121	Name=광장	LinkedObjects=132/111	Components=Locatable/Reach/Description	Locatable.Label=광장	Locatable.Information=다양한 사람들이 모이는 곳.	Description.Target=Locatable.Description
+ID=122	Name=의류점	LinkedObjects=123/124/121	Components=Locatable/Reach/Description	Locatable.Label=의류점	Locatable.Information=옷을 거래하는 곳.	Description.Target=Locatable.Description
+ID=123	Name=식료품점	LinkedObjects=113/122/124/121	Components=Locatable/Reach/Description	Locatable.Label=식료품점	Locatable.Information=음식 재료를 거래하는 곳.	Description.Target=.Description
+ID=124	Name=잡화점	LinkedObjects=123/122/121	Components=Locatable/Reach/Description	Locatable.Label=잡화점	Locatable.Information=잡동사니를 거래하는 곳.	Description.Target=Locatable.Description
+ID=132	Name=교회 입구	LinkedObjects=133/131/121	Components=Locatable/Reach/Description	Locatable.Label=교회 입구	Locatable.Information=교회로 들어가는 입구.	Description.Target=Locatable.Description
+ID=131	Name=교회	LinkedObjects=133/132/134	Components=Locatable/Reach/Description	Locatable.Label=교회	Locatable.Information=신성력이 느껴지는 공간.	Description.Target=Locatable.Description
+ID=133	Name=교회 뒷편	LinkedObjects=141/131/132	Components=Locatable/Reach/Description	Locatable.Label=교회 뒷편	Locatable.Information=사람이 잘 드나들지 않는 교회의 뒷쪽 공간.	Description.Target=Locatable.Description
+ID=134	Name=숙소	LinkedObjects=131	Components=Locatable/Reach/Description	Locatable.Label=숙소	Locatable.Information=성직자들이 거주하는 공간.	Description.Target=Locatable.Description
+ID=141	Name=서쪽 언덕	LinkedObjects=151/133	Components=Locatable/Reach/Description	Locatable.Label=서쪽 언덕	Locatable.Information=마을을 넓게 볼 수 있는 곳.	Description.Target=Locatable.Description
+ID=151	Name=서쪽 검문소	LinkedObjects=141	Components=Locatable/Reach/Description	Locatable.Label=서쪽 검문소	Locatable.Information=서쪽에 위치한 검문소.	Description.Target=Locatable.Description
+ID=201	Name=경비병	LinkedObjects=-1	Components=Talkable/Talk/Description	Talkable.Label=경비병	Talkable.Information=마을을 지키는 경비병.	Talkable.Description=asdf	Description.Target=Talkable.Description	Talk.Scripts="대화 스크립트입니다."/"테스트 중입니다."/"마지막 문장이 길면 어떻게 출력이 될까?. 아직도 문장 길이가 모자랄 줄은 몰랐단 말이지."	Talk.Information=경비병의 호감도?
+ID=1001	Name=장비	LinkedObjects=-1	Components=Inventoriable/GetArmors/GetMainWeapons/GetSubWeapons/GetAccessories	Inventoriable.Label=장비	Inventoriable.Information=방어구, 무기를 담은 가방.	GetArmors.Information=몸에 걸치는 방어구.
+ID=1002	Name=소모품	LinkedObjects=1101	Components=Inventoriable/GetDrinks/GetScrolls/GetIngredients	Inventoriable.Label=소모품	Inventoriable.Information=소모품, 재료를 담은 가방.	GetDrinks.Information=여러 물약들.	GetScrolls.Information=마법이 담긴 스크롤.	GetIngredients.Information=제작에 사용하는 재료.
+ID=1003	Name=기타	LinkedObjects=-1	Components=Inventoriable/GetQuestOnly	Inventoriable.Label=기타	Inventoriable.Information=기타 잡동사니를 담은 가방.	GetQuestOnly.Information=중요한 물건들.
+ID=1101	Name=빨간 포션	LinkedObjects=1002	Components=Drink	Drink.Label=빨간 포션	Drink.Information=빨간색 포션.

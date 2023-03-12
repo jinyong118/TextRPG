@@ -1,0 +1,7 @@
+ID=10
+Name=중심가
+Components=Transform/AsStreet
+Transform.parent=-1
+AsStreet.Label=중심가
+AsStreet.Linked=11
+AsStreet.Information=여기에 뭘 쓰지?

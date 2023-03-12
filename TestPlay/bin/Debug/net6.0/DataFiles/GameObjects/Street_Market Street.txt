@@ -1,0 +1,7 @@
+ID=11
+Name=시장가
+Components=Transform/AsStreet
+Transform.parent=-1
+AsStreet.Label=시장가
+AsStreet.Linked=10
+AsStreet.Information=여기에 뭘 쓰지?

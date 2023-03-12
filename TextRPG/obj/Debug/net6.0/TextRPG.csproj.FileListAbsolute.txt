@@ -1,0 +1,12 @@
+C:\Users\82103\source\repos\TextRPG\TextRPG\bin\Debug\net6.0\TextRPG.deps.json
+C:\Users\82103\source\repos\TextRPG\TextRPG\bin\Debug\net6.0\TextRPG.dll
+C:\Users\82103\source\repos\TextRPG\TextRPG\bin\Debug\net6.0\TextRPG.pdb
+C:\Users\82103\source\repos\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.csproj.AssemblyReference.cache
+C:\Users\82103\source\repos\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82103\source\repos\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.AssemblyInfoInputs.cache
+C:\Users\82103\source\repos\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.AssemblyInfo.cs
+C:\Users\82103\source\repos\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.csproj.CoreCompileInputs.cache
+C:\Users\82103\source\repos\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.dll
+C:\Users\82103\source\repos\TextRPG\TextRPG\obj\Debug\net6.0\refint\TextRPG.dll
+C:\Users\82103\source\repos\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.pdb
+C:\Users\82103\source\repos\TextRPG\TextRPG\obj\Debug\net6.0\ref\TextRPG.dll

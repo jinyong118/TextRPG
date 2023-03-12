@@ -1,0 +1,11 @@
+ID=1
+Name=TestPlayer
+LinkedObjects=1001/1002/1003
+Components=Playable/Move/Explore/Bag
+Move.Location=102
+Move.Label=이동
+Move.Information=이어진 다른 길로 이동한다.
+Explore.Label=탐색
+Explore.Information=주변을 탐색한다.
+Bag.Label=가방
+Bag.Information=가진 아이템들을 확인한다.
